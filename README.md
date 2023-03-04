@@ -19,3 +19,9 @@ _This is **italic and bold** text_ using a single underscore for italic and doub
 __This is bold and *italic* text__ using double underscores for bold and single asterisks for italic.
 
 \_This is all \*\*plain\*\* text\_.
+
+$Table
+First|Second
+-|-
+1|2
+3|4
