@@ -46,4 +46,4 @@ var sum = first + second;
 ```
 
 Reference type|Reference without format|Small link
-Dirección url |https://github.com/desktop/desktop/pull/3602| #3602
+Dirección url |https://github.com/desktop/desktop/pull/3602 | #3602
